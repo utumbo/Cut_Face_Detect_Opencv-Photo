@@ -1,1 +1,2 @@
-To upload your image, put it in the repository and change the value to img = cv2.imread('The name of your image')
+This is script can cut faces in photo
+You can upload st of photos in folder "input_face" the results will be "output_face" folder
